@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+psutil
+pillow
+socket
+datetime
+telebot
+PIL
+platform
